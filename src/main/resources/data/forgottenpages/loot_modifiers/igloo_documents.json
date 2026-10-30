@@ -1,0 +1,10 @@
+{
+  "type": "forgottenpages:forgotten_pages",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/igloo_chest"
+    }
+  ],
+  "chance": 0.35
+}

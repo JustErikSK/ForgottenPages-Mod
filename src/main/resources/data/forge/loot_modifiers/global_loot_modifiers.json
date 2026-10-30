@@ -1,7 +1,20 @@
-
 {
   "replace": false,
   "entries": [
-    "forgottenpages:dungeon_documents"
+    "forgottenpages:dungeon_documents",
+    "forgottenpages:mineshaft_documents",
+    "forgottenpages:stronghold_library_documents",
+    "forgottenpages:stronghold_corridor_documents",
+    "forgottenpages:stronghold_crossing_documents",
+    "forgottenpages:desert_pyramid_documents",
+    "forgottenpages:jungle_temple_documents",
+    "forgottenpages:woodland_mansion_documents",
+    "forgottenpages:ancient_city_documents",
+    "forgottenpages:shipwreck_supply_documents",
+    "forgottenpages:shipwreck_map_documents",
+    "forgottenpages:shipwreck_treasure_documents",
+    "forgottenpages:buried_treasure_documents",
+    "forgottenpages:igloo_documents",
+    "forgottenpages:pillager_outpost_documents"
   ]
 }
