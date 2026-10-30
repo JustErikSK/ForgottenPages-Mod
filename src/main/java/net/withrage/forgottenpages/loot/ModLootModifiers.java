@@ -8,16 +8,14 @@ import net.minecraftforge.registries.RegistryObject;
 
 public class ModLootModifiers {
 
-    public static final DeferredRegister<
-            Codec<? extends IGlobalLootModifier>> LOOT_MODIFIERS =
+    public static final DeferredRegister<Codec<? extends IGlobalLootModifier>> LOOT_MODIFIERS =
             DeferredRegister.create(
                     ForgeRegistries.Keys.GLOBAL_LOOT_MODIFIER_SERIALIZERS,
-                    "forgottenforest"
+                    "forgottenpages"
             );
 
     public static final RegistryObject<Codec<ForgottenPagesLootModifier>>
-            FORGOTTEN_PAGES =
-            LOOT_MODIFIERS.register(
+            FORGOTTEN_PAGES = LOOT_MODIFIERS.register(
                     "forgotten_pages",
                     () -> ForgottenPagesLootModifier.CODEC
             );

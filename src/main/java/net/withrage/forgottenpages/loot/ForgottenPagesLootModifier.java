@@ -49,7 +49,7 @@ public class ForgottenPagesLootModifier extends LootModifier {
                 .filter(item -> {
                     var id = ForgeRegistries.ITEMS.getKey(item);
                     return id != null
-                            && id.getNamespace().equals("forgottenforest");
+                            && id.getNamespace().equals("forgottenpages");
                 })
                 .toList();
 
