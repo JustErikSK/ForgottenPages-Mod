@@ -22,7 +22,7 @@ public class ForgottenForest {
     }
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        if (event.getTabKey() == CreativeModeTabs.HOTBAR) {
+        if (event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
             for (RegistryObject<Item> item : ModItems.ITEMS.getEntries()) {
                 event.accept(item.get());
             }
