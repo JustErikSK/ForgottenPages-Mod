@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "forgottenforest:item/missing_report"
+    "layer0": "forgottenpages:item/missing_report"
   }
 }

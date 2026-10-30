@@ -1,6 +1,6 @@
 
 {
-  "type": "forgottenforest:forgotten_pages",
+  "type": "forgottenpages:forgotten_pages",
   "conditions": [
     {
       "condition": "forge:loot_table_id",

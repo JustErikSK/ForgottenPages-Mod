@@ -1,14 +1,14 @@
 {
-  "item.forgottenforest.handwritten_note": "Handwritten Note",
-  "item.forgottenforest.letter": "Old Letter",
-  "item.forgottenforest.map": "Faded Map",
-  "item.forgottenforest.missing_report": "Missing Person Report",
-  "item.forgottenforest.newspaper": "Old Newspaper",
-  "item.forgottenforest.polaroid_0": "Faded Polaroid",
-  "item.forgottenforest.polaroid_1": "Damaged Polaroid",
-  "item.forgottenforest.polaroid_2": "Old Polaroid",
-  "item.forgottenforest.polaroid_3": "Strange Polaroid",
-  "item.forgottenforest.polaroid_4": "Unmarked Polaroid",
-  "item.forgottenforest.research_document": "Research Document",
-  "item.forgottenforest.torn_page": "Torn Page"
+  "item.forgottenpages.handwritten_note": "Handwritten Note",
+  "item.forgottenpages.letter": "Old Letter",
+  "item.forgottenpages.map": "Faded Map",
+  "item.forgottenpages.missing_report": "Missing Person Report",
+  "item.forgottenpages.newspaper": "Old Newspaper",
+  "item.forgottenpages.polaroid_0": "Faded Polaroid",
+  "item.forgottenpages.polaroid_1": "Damaged Polaroid",
+  "item.forgottenpages.polaroid_2": "Old Polaroid",
+  "item.forgottenpages.polaroid_3": "Strange Polaroid",
+  "item.forgottenpages.polaroid_4": "Unmarked Polaroid",
+  "item.forgottenpages.research_document": "Research Document",
+  "item.forgottenpages.torn_page": "Torn Page"
 }

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "forgottenforest:item/research_document"
+    "layer0": "forgottenpages:item/research_document"
   }
 }
