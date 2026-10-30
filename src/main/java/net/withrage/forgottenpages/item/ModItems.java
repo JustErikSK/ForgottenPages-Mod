@@ -1,15 +1,15 @@
-package net.withrage.forgottenforest.item;
+package net.withrage.forgottenpages.item;
 
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.registries.DeferredRegister;
-import net.withrage.forgottenforest.ForgottenForest;
+import net.withrage.forgottenpages.ForgottenPages;
 
 public class ModItems {
 
-    public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, ForgottenForest.MOD_ID);
+    public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, ForgottenPages.MOD_ID);
     public static final RegistryObject<Item> HANDWRITTEN_NOTE = ITEMS.register("handwritten_note", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> LETTER = ITEMS.register("letter", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> MAP = ITEMS.register("map", () -> new Item(new Item.Properties()));
