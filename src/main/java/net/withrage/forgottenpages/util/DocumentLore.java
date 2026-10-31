@@ -70,7 +70,7 @@ public class DocumentLore {
         var itemId = ForgeRegistries.ITEMS.getKey(item);
 
         if (itemId == null ||
-                !itemId.getNamespace().equals("forgottenforest")) {
+                !itemId.getNamespace().equals("forgottenpages")) {
             return;
         }
 
